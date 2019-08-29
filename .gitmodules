@@ -1,0 +1,3 @@
+[submodule "backend/histwords"]
+	path = backend/histwords
+	url = https://github.com/williamleif/histwords
