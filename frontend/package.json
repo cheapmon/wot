@@ -12,7 +12,7 @@
     "@types/lodash": "^4.14.138",
     "core-js": "^2.6.5",
     "d3": "^5.11.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "three-js": "^79.0.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
